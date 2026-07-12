@@ -446,3 +446,40 @@ img.neckless {
     height: 200px;
     object-fit: cover;
 }
+
+#juwelry {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}   
+
+.hero{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("assets/banner.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.overlay{
+    color: #2E2E2E;
+    max-width: 600px;
+}
+
+.overlay h1{
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+
+.overlay p{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
