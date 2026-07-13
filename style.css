@@ -210,7 +210,7 @@ footer{
 
 }
 
-@media(max-width:768px){
+
 
 header{
 
@@ -226,7 +226,7 @@ header{
 
 }
 
-}
+
 
 .page-banner{
     background:#e8ddd0;
@@ -274,9 +274,7 @@ header{
     text-align:center;
 }
 
-/* ===========================
-   COMMISSIONS PAGE
-=========================== */
+
 
 .process{
 
@@ -306,9 +304,7 @@ header{
 
 
 
-/* ===========================
-   CONTACT PAGE
-=========================== */
+
 
 *{
     margin:0;
@@ -323,7 +319,7 @@ body{
     line-height:1.6;
 }
 
-/* Hero Section */
+
 
 .hero{
     background:#d8cab9;
@@ -342,7 +338,7 @@ body{
     color:#555;
 }
 
-/* About Section */
+
 
 .about{
     width:80%;
@@ -360,7 +356,7 @@ body{
     line-height:2;
 }
 
-/* Contact Form */
+
 
 section{
     width:80%;
@@ -412,7 +408,6 @@ button:hover{
     background:#222;
 }
 
-/* Footer */
 
 footer{
     background:#222;
@@ -422,7 +417,7 @@ footer{
     margin-top:40px;
 }
 
-/* Responsive */
+
 
 @media(max-width:768px){
 
